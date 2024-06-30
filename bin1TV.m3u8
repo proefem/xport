@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://netsporgiris.pro/
+#EXTVLCOPT:http-Referer=https://netsporgiris.pro/
 #EXTVLCOPT:http-origin=https://netsporgiris.pro
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=playhdnew5.buzz
