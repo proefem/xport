@@ -2,17 +2,3 @@
 #EXT-X-VERSION:6
 #EXT-X-STREAM-INF:BANDWIDTH=1755600,RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE,CODECS="avc1.640029,mp4a.40.2"
 https://uno.bf9c887f6e704870.shop/p/bein1/601/a.cf-worker-b3711512277a9e53.workers.dev/chunklist_hd.m3u8?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android  
-
-
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=5400000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1280x720
-#https://uno.bf9c887f6e704870/p/izlemac9593.sbs/canli-mac-izle/exxen-tv-hd/601/c.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
-#https://uno.bf9c887f6e704870/i/bein1/601/playlist.m3u8?|user-agent=Mozilla/5.0 AppleWebKit/537.36  
-
-#EXTM3U
-#EXT-X-TARGETDURATION:10
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:20599181
-#EXT-X-STREAM-INF:BANDWIDTH=240000
-#https://sei.1da87064b1b25605.shop/p/www.canlimaclar2237.sbs/805/a.orhankutluu835.workers.dev/chunklist_hd.m3u8
